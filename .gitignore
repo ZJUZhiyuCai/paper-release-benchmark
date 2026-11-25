@@ -1,0 +1,9 @@
+_generated/
+jobs/
+__pycache__/
+*.py[cod]
+*.xlsx
+*.mph
+public.json
+gold.json
+.venv/
